@@ -1,0 +1,14 @@
+{
+  "name": "mockstarter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Louis <michael.wei@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.0",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
